@@ -74,7 +74,7 @@ Vrinda store Annual Report for 2022  show that the Store made over 21 million in
 
 5.  To gather customer feedback to understand customer satisfaction
 
-By implementing these recommendations, the company can leverage the insights to improve sales, optimize marketing efforts, and enhance overall business performance in 2023
+**By implementing these recommendations, the company can leverage the insights to improve sales, optimize marketing efforts, and enhance overall business performance in 2023**
 
    
 
