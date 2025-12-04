@@ -42,3 +42,8 @@ Dashboard <a href="https://github.com/Empress36/Vrinda-Store-Data-Analysis/blob/
 
 ## ![Screenshot of the Dashboard](https://github.com/user-attachments/assets/c87caac0-d84d-40bc-9363-548d0f1839e0)
 
+## Project Summary
+
+Vrinda store Annual Report for 2022  show that the Store made over 21 million in sales, with thousands of orders and customers. The report showed how sales went up and down each month. Women bought more clothes than men. Amazon, Flipkart, and Myntra helped a lot with sales. The report also showed where most sales came from.
+<img width="3486" height="55" alt="image" src="https://github.com/user-attachments/assets/cbb0bd29-d64b-468d-aee0-fed888c7799f" />
+
