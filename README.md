@@ -3,6 +3,7 @@
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda Store can understand their customers and grow more sales in 2023 
 ## Dataset used
 <a href ="https://github.com/Empress36/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Data.xlsx">Dataset view</a>
+
 ## Questions (KPIs)
 •	Create Age Group Column from Age(Teenager, Adult, Senior)
 •	Create a Dashboard showing the total sales, total order, Number of Channel, Number of Customers.
