@@ -63,6 +63,19 @@ Vrinda store Annual Report for 2022  show that the Store made over 21 million in
 7. **Monthly Trend sales:** There is more sales in March and Febuary than the remaining other months
 
 ## Recommendations 
+
+1.  I would recommend that the company should focus more on men in sense that, they should advertise men clothes and to understand their preferences and needs. 
+
+2.  The company should find the reasons for Returns, Cancellations and Refunds to identify the areas for improvent. 
+
+3.  Invest more in the channels that generate the most sales and consider optimizing the underperfoming ones.
+
+4.  I would also recommend that the company should Analyze factors contributing to the peak sales in March and Febuary, and then use the markerting strategies for the other months 
+
+5.  To gather customer feedback to understand customer satisfaction
+
+By implementing these recommendations, the company can leverage the insights to improve sales, optimize marketing efforts, and enhance overall business performance in 2023
+
    
 
 
