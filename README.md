@@ -48,7 +48,7 @@ Vrinda store Annual Report for 2022  show that the Store made over 21 million in
 
 ## Insights
 
-1. Order vs. Sales: Analyzing the relationship between orders and sales can reveal the average order value and identify trends in customer spending.
+1. **Order vs. Sales:** Analyzing the relationship between orders and sales can reveal the average order value and identify trends in customer spending.
 
 2.  Order Status: Based on the Chart we can see that 93% of the goods are Delivered, 4% are Returned, 2% are Cancelled and 1% are Refunded.
 
