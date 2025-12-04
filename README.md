@@ -50,17 +50,17 @@ Vrinda store Annual Report for 2022  show that the Store made over 21 million in
 
 1. **Order vs. Sales:** Analyzing the relationship between orders and sales can reveal the average order value and identify trends in customer spending.
 
-2.  Order Status: Based on the Chart we can see that 93% of the goods are Delivered, 4% are Returned, 2% are Cancelled and 1% are Refunded.
+2.  **Order Status:** Based on the Chart we can see that 93% of the goods are Delivered, 4% are Returned, 2% are Cancelled and 1% are Refunded.
 
-3. Men Vs Women: The Chart show that Women Purchase more than Men
+3. **Men Vs Women:** The Chart show that Women Purchase more than Men
 
-4. Top States: Knowing which states generate the most sales helps in focusing marketing efforts and optimizing distribution. 
+4. **Top States:** Knowing which states generate the most sales helps in focusing marketing efforts and optimizing distribution. 
 
-5. Order Vs Age : Based on the Chart we can see that Adults from the Age of (20 - 69) Order most
+5. **Order Vs Age:** Based on the Chart we can see that Adults from the Age of (20 - 69) Order most
 
-6. Sales Channels: The performance of different channels (Amazon, Flipkart, Myntra,Ajio, Nalli,Meesho and others) provides insights into where sales are strongest and where improvements     can be made.
+6. **Sales Channels:** The performance of different channels (Amazon, Flipkart, Myntra,Ajio, Nalli,Meesho and others) provides insights into where sales are strongest and where                improvements can be made.
 
-7. Monthly Trend sales: There is more sales in March and Febuary than the remaining other months
+7. **Monthly Trend sales:** There is more sales in March and Febuary than the remaining other months
 
 ## Recommendations 
    
